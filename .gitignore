@@ -1,0 +1,31 @@
+# Node modules
+node_modules/
+
+# Python virtual environment
+ai-coder-env/
+
+# Build files
+dist/
+build/
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Large files
+*.dll
+*.lib
